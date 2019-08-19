@@ -1,7 +1,11 @@
 body {
     text-align: center;
 }
-
+input[type="text"]{
+    width: 400px;
+    margin-right: 35px;
+    margin-left: 50px;
+}
 .logo {
     margin-left: auto;
     margin-right: auto;
@@ -19,5 +23,8 @@ body {
     margin: auto;
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
-    
+}
+.buttons {
+    display: block;
+    margin-top: 10px;
 }
