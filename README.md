@@ -1,5 +1,5 @@
 Google Homepage Clone 
-
+By Tamerlan Gudabayev
 
 
 From The Odin Project's[curriculum]
