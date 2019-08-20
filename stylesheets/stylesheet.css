@@ -6,6 +6,16 @@ input[type="text"]{
     margin-right: 35px;
     margin-left: 50px;
 }
+
+li {
+    float: right;
+}
+
+a {
+    display: block;
+    padding: 8px;
+}
+
 .logo {
     margin-left: auto;
     margin-right: auto;
@@ -28,3 +38,10 @@ input[type="text"]{
     display: block;
     margin-top: 10px;
 }
+.nav-bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+ 
