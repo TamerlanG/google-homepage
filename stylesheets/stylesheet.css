@@ -48,6 +48,13 @@ a {
     padding: 8px;
 }
 
+button {
+    border: none;
+    padding: 2%;
+    color: #9ab0af;
+    background-color: #f2f2f2;
+}
+
 .logo {
     margin-left: auto;
     margin-right: auto;
