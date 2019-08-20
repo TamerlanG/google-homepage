@@ -48,6 +48,7 @@ a {
     padding: 8px;
     text-decoration: none;
     color: black;
+    font-size: 12px;
 }
 
 button {
@@ -112,4 +113,13 @@ ul {
 
 .top-nav a:hover{
     text-decoration: underline;
+}
+
+.other-language a {
+    display: inline;
+    color: darkblue;
+}
+
+.other-language p {
+    font-size: 12px;
 }
