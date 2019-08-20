@@ -49,10 +49,23 @@ a {
 }
 
 button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
     border: none;
-    padding: 2%;
+    padding: 0.5%;
     color: #9ab0af;
     background-color: #f2f2f2;
+}
+
+button a {
+    text-decoration: none;
+    color: #9ab0af;
+}
+
+button a:hover {
+    color: black;
+    
 }
 
 .logo {
