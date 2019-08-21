@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    margin: 0;
 }
 input{
     border: none;
@@ -115,6 +116,7 @@ button a:hover {
     position: fixed;
     bottom: 0;
     width: 100%;
+    min-width: 100%;
 }
 
 .footer a {
@@ -136,7 +138,6 @@ button a:hover {
 }
 
 .kz-bar {
-    float: left;
     color: #7a7b83;
     text-align: left;
     font-size: 14px;
