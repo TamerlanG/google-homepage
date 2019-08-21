@@ -134,3 +134,17 @@ button a:hover {
     float: right;
     margin-right: 10px;
 }
+
+.kz-bar {
+    float: left;
+    color: #7a7b83;
+    text-align: left;
+    font-size: 14px;
+    background-color: f2f2f2;
+    border: 1px solid #e4e4e4;
+    overflow: hidden;
+    position: fixed;
+    bottom: 30px;
+    width: 100%;
+    padding: 8px;
+}
