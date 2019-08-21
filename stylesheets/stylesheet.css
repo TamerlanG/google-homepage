@@ -39,18 +39,6 @@ input[type="submit"]:hover {
     color: #222;
 }
 
-li {
-    float: right;
-}
-
-a {
-    display: block;
-    padding: 8px;
-    text-decoration: none;
-    color: black;
-    font-size: 12px;
-}
-
 button {
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -93,27 +81,6 @@ button a:hover {
     display: block;
     margin-top: 10px;
 }
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #f2f2f2;  
-}
- 
-.footer ul {
-  list-style-type: none;
-  margin: 0;
-  margin-top: 540px;
-  padding: 0;
-  overflow: hidden;
-  float: left;
-  background-color: #f2f2f2;
-}
-
-.top-nav a:hover{
-    text-decoration: underline;
-}
 
 .other-language a {
     display: inline;
@@ -122,4 +89,21 @@ ul {
 
 .other-language p {
     font-size: 12px;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: #45413e;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav a:hover {
+    color: black;
 }
