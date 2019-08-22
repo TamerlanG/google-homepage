@@ -154,4 +154,9 @@ button a:hover {
     height: 25px;
     color: purple;
 }
- 
+#searchBar{
+    background: url(../images/microphone.png) no-repeat;
+    background-size: 20spx;
+    background-position: right;
+    background-origin: content-box;
+}
