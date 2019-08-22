@@ -94,6 +94,7 @@ button a:hover {
 
 .topnav {
     overflow: hidden;
+    margin: 10px;
 }
 
 .topnav a {
@@ -101,7 +102,7 @@ button a:hover {
     color: #45413e;
     padding: 5px;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -148,4 +149,22 @@ button a:hover {
     bottom: 30px;
     width: 100%;
     padding: 8px;
+}
+
+#app-image {
+    width: 17px;
+    height: 17px;
+    margin: 0 5px;
+    margin-top: 3px;
+    color: black;
+}
+
+#text {
+    margin-top: 5px;
+}
+
+#user-image {
+    width: 25px;
+    height: 25px;
+    color: purple;
 }
